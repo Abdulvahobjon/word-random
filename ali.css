@@ -1,0 +1,56 @@
+
+.title{
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-size: 100px;
+  /* textni olchami  */
+  font-weight: 900; 
+  /* 100-900 */
+  /* textniqalinligi */
+  font-weight: bold;
+  font-family: sans-serif;
+  /* font turi  */
+  font-family: cursive;
+  font-style: italic;
+  /* textni yonboshlatish */
+  font-style: normal;
+  /* qiyshaygan textni togrilash */
+  text-transform: uppercase;
+  /* textni barcha harflarini katta harfga otqazish */
+  text-transform: lowercase;
+  /* tetni barcha harflarini kichik harfga otqazish */
+  text-transform: capitalize;
+  /* textni bosh harflarini katta harfga otqazish  */
+}
+
+
+
+
+
+
+
+
+/* h1{
+  color: white;
+  text-align: center;
+  background-color: black;
+} */
+/* 1 */
+/* 10 */
+/* 100 */
+/* .hello{
+  text-align: left;
+  background-color: aqua;
+}
+
+#nam{
+  background-color: orangered;
+}
+.nam1{
+  background-color: black;
+}
+
+.hello2{
+  color: red;
+} */
